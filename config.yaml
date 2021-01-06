@@ -5,6 +5,7 @@ subject: 'cat:cs.*'
 keywords:
         kaggle: 3
         resnet: 3
+        medical: 2
         anomaly detection: 1
 
 # 通知の閾値
